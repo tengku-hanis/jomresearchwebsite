@@ -14,7 +14,7 @@ Jom Research, was founded with the specific purpose of offering easily accessibl
 
 At the heart of Jom Research's mission is the idea of democratizing education. The company recognizes that learning should be accessible to learners of all levels, and it achieves this through a series of budget-friendly webinars that cater to a diverse audience. These webinars cover a spectrum of concepts, from fundamental principles to cutting-edge techniques, in research and statistical analysis.
 
-Do join [our webinars](main/webinars/)!
+Do join [our webinars](https://jomresearch.netlify.app/webinars/)!
 
 
 

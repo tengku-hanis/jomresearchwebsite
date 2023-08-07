@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jomresearch</title>
+    <link>http://www.example.com/</link>
+    <description>Recent content on jomresearch</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Jan 2023 01:15:29 +0100</lastBuildDate><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://www.example.com/about/</link>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/about/</guid>
+      <description>Jom Research, was founded with the specific purpose of offering easily accessible webinars centered around research and statistical analysis at a reasonable price point. What sets Jom Research apart is its commitment to providing a comprehensive learning journey, starting from the foundational basics and progressing seamlessly to more advanced topics in the realm of research and statistical analysis. This approach ensures that whether you are just beginning your exploration or are seeking in-depth insights, Jom Research&amp;rsquo;s meticulously designed webinars have something valuable to offer.</description>
+    </item>
+    
+    <item>
+      <title>temas</title>
+      <link>http://www.example.com/categoria/temas/</link>
+      <pubDate>Wed, 04 Jan 2023 23:21:18 +0100</pubDate>
+      
+      <guid>http://www.example.com/categoria/temas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sintaxe</title>
+      <link>http://www.example.com/categoria/sintaxe/</link>
+      <pubDate>Wed, 04 Jan 2023 23:21:06 +0100</pubDate>
+      
+      <guid>http://www.example.com/categoria/sintaxe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Códigos curtos</title>
+      <link>http://www.example.com/tags/shortcodes/_index.pt-br/</link>
+      <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
+      
+      <guid>http://www.example.com/tags/shortcodes/_index.pt-br/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consultation</title>
+      <link>http://www.example.com/consultation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/consultation/</guid>
+      <description>We have yet to provide any consultation services at the moment. Stay tuned and follow us on Facebook for more info 😊.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.example.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/contact/</guid>
+      <description>Message or email us at:  Link to heading   Facebook page: Jom Research Email: jom.research.malaysia@gmail.com</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://www.example.com/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/projects/</guid>
+      <description>Nothing to see here&amp;hellip; Move along!</description>
+    </item>
+    
+    <item>
+      <title>Trainers</title>
+      <link>http://www.example.com/trainers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/trainers/</guid>
+      <description>Below is our lead trainer.
+Tengku Muhammad Hanis Bin Tengku Mokhtar is a PhD student in Public Health Epidemiology at the Department of Community Medicine, Universiti Sains Malaysia. His PhD research focuses on risk estimation and prediction of breast cancer using machine learning. Currently, he awaits a Viva-voce examination for his PhD. In 2019, he completed a master&amp;rsquo;s degree in medical statistics from the Biostatistics and Research Methodology Unit at the same university.</description>
+    </item>
+    
+    <item>
+      <title>Webinars</title>
+      <link>http://www.example.com/webinars/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/webinars/</guid>
+      <description>Below are the list of our webinars.
+Future webinars:  Link to heading      Webinar title Date Fee Link to register     How to read a paper for beginners Yet to be decided Free to attend Stay tuned   How to write a paper for beginners Yet to be decided RM10 Stay tuned   How to do a systematic review Yet to be decided RM70 Stay tuned   How to do a bibliometric analysis Yet to be decided RM70 Stay tuned   How to read a meta-analysis paper Yet to be decided RM50 Stay tuned   An introduction to R Yet to be decided RM40 Stay tuned   How to do a meta-analysis Yet to be decided RM70 Stay tuned   Simple numerical analysis using R Yet to be decided RM100 Stay tuned   Simple categorical analysis using R Yet to be decided RM100 Stay tuned    Past webinars:  Link to heading   (The recordings and slides are available for purchase)</description>
+    </item>
+    
+  </channel>
+</rss>

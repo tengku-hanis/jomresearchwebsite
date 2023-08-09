@@ -3,7 +3,7 @@ slug: trainers
 title: Trainers
 ---
 
-## Lead trainer:
+## Lead academic trainer:
 
 ![Tengku Muhammad Hanis](/./trainers_files/tmh.jpg)
 

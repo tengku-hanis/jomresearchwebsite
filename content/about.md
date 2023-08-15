@@ -17,4 +17,3 @@ At the heart of Jom Research's mission is the idea of democratizing education. T
 Do join [our webinars](https://jomresearch.netlify.app/webinars/)!
 
 ![TMH Research Kits Resources logo](/./about_files/logo2_transparent.png)
-

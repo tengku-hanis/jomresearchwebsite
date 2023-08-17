@@ -10,7 +10,7 @@ Below are the list of our webinars.
 | Webinar title | Date | Fee | Link to register |  
 |---------------|------|-----|------------------|
 | How to read a paper for beginners | August 17, 2023 | RM10 | [Click link](https://docs.google.com/forms/d/e/1FAIpQLSeHSHGU5QIp9gUaxSW0p7nry_QN8INjPC0DPy9MVjuL1HQlGQ/viewform) |
-| How to write a paper for beginners | Yet to be decided | RM10 | Stay tuned |
+| How to write a paper for beginners | Yet to be decided | RM30 | Stay tuned |
 | How to do a systematic review | Yet to be decided | RM70 | Stay tuned |
 | How to do a bibliometric analysis | Yet to be decided | RM70 | Stay tuned |
 | How to read a meta-analysis paper | Yet to be decided | RM50 | Stay tuned |

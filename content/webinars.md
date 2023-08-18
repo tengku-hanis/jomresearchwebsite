@@ -9,7 +9,6 @@ Below are the list of our webinars.
 
 | Webinar title | Date | Fee | Link to register |  
 |---------------|------|-----|------------------|
-| How to read a paper for beginners | August 17, 2023 | RM10 | [Click link](https://docs.google.com/forms/d/e/1FAIpQLSeHSHGU5QIp9gUaxSW0p7nry_QN8INjPC0DPy9MVjuL1HQlGQ/viewform) |
 | How to write a paper for beginners | Yet to be decided | RM30 | Stay tuned |
 | How to do a systematic review | Yet to be decided | RM70 | Stay tuned |
 | How to do a bibliometric analysis | Yet to be decided | RM70 | Stay tuned |
@@ -24,6 +23,7 @@ Below are the list of our webinars.
 ## **Past webinars**: 
 *(The recordings and slides are available for purchase)*
 
-| Webinar title | Date | Link to buy the recordings and slides |  
-|---------------|------|---------------------------------------|  
-| How to publish a paper for beginners and newbies (for health sciences) | August 5, 2023 | [Click link](https://docs.google.com/forms/d/1IJ30JRcQ9pjXJGKyyCSaHLTJeThuRe2TJhcMKBU23to/edit) |
+| Webinar title | Date | Fee | Link to buy the recordings and slides |  
+|---------------|------|-----|---------------------------------------|  
+| How to publish a paper for beginners and newbies (for health sciences) | August 5, 2023 | RM10 | [Click to buy](https://forms.gle/pLpYbRiu9MDRFeEX6) |
+| How to read a paper for beginners | August 17, 2023 | RM10 | [Click to buy ](https://forms.gle/U94PpQckbVDgWYGW6) |

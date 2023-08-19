@@ -22,7 +22,7 @@ params:
   hideColorSchemeToggle: no
   info:
     - We provide webinars related to research and statistical analysis
-    - Do follow us on [Facebook](https://www.facebook.com/profile.php?id=100095502845075)
+    - Do follow us on our social media!
   maxSeeAlsoItems: 5
   rtl: no
   since: 2023
@@ -30,6 +30,10 @@ params:
     - icon: fa fa-4x fa fa-facebook-square
       name: Facebook
       url: https://www.facebook.com/profile.php?id=100095502845075
+      weight: 1
+    - icon: fa fa-4x fab fa-instagram
+      name: Instagram
+      url: https://www.instagram.com/jomresearch/
       weight: 1
 taxonomies:
   author: authors

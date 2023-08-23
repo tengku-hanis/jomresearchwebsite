@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>jomresearch</title>
-    <link>http://www.example.com/</link>
+    <link>https://jomresearch.netlify.app/</link>
     <description>Recent content on jomresearch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Jan 2023 01:15:29 +0100</lastBuildDate><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Jan 2023 01:15:29 +0100</lastBuildDate><atom:link href="https://jomresearch.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://www.example.com/about/</link>
+      <link>https://jomresearch.netlify.app/about/</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/about/</guid>
+      <guid>https://jomresearch.netlify.app/about/</guid>
       <description>Jom Research, is an academic consultant platform owned by TMH Research Kits Resources (SSM registration no: 202303206919), a company based in Malaysia. Jom Research was founded with the specific purpose of offering easily accessible webinars centered around research and statistical analysis at a reasonable price point. What sets Jom Research apart is its commitment to providing a comprehensive learning journey, starting from the foundational basics and progressing seamlessly to more advanced topics in the realm of research and statistical analysis.</description>
     </item>
     
     <item>
       <title>temas</title>
-      <link>http://www.example.com/categoria/temas/</link>
+      <link>https://jomresearch.netlify.app/categoria/temas/</link>
       <pubDate>Wed, 04 Jan 2023 23:21:18 +0100</pubDate>
       
-      <guid>http://www.example.com/categoria/temas/</guid>
+      <guid>https://jomresearch.netlify.app/categoria/temas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sintaxe</title>
-      <link>http://www.example.com/categoria/sintaxe/</link>
+      <link>https://jomresearch.netlify.app/categoria/sintaxe/</link>
       <pubDate>Wed, 04 Jan 2023 23:21:06 +0100</pubDate>
       
-      <guid>http://www.example.com/categoria/sintaxe/</guid>
+      <guid>https://jomresearch.netlify.app/categoria/sintaxe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Códigos curtos</title>
-      <link>http://www.example.com/tags/shortcodes/_index.pt-br/</link>
+      <link>https://jomresearch.netlify.app/tags/shortcodes/_index.pt-br/</link>
       <pubDate>Wed, 04 Jan 2023 11:51:36 +0100</pubDate>
       
-      <guid>http://www.example.com/tags/shortcodes/_index.pt-br/</guid>
+      <guid>https://jomresearch.netlify.app/tags/shortcodes/_index.pt-br/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Consultation</title>
-      <link>http://www.example.com/consultation/</link>
+      <link>https://jomresearch.netlify.app/consultation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/consultation/</guid>
+      <guid>https://jomresearch.netlify.app/consultation/</guid>
       <description>We have yet to provide any consultation services at the moment. Stay tuned and follow us on Facebook and Instagram for more info 😊.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://www.example.com/contact/</link>
+      <link>https://jomresearch.netlify.app/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/contact/</guid>
+      <guid>https://jomresearch.netlify.app/contact/</guid>
       <description>Message or email us at:  Link to heading   Facebook: Jom Research
 Instagram: @jomresearch
 Email: jom.research.malaysia@gmail.com</description>
@@ -65,30 +65,30 @@ Email: jom.research.malaysia@gmail.com</description>
     
     <item>
       <title>Projects</title>
-      <link>http://www.example.com/projects/</link>
+      <link>https://jomresearch.netlify.app/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/projects/</guid>
+      <guid>https://jomresearch.netlify.app/projects/</guid>
       <description>Nothing to see here&amp;hellip; Move along!</description>
     </item>
     
     <item>
       <title>Trainers</title>
-      <link>http://www.example.com/trainers/</link>
+      <link>https://jomresearch.netlify.app/trainers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/trainers/</guid>
+      <guid>https://jomresearch.netlify.app/trainers/</guid>
       <description>Lead academic trainer:  Link to heading    Name: Tengku Muhammad Hanis Bin Tengku Mokhtar Education:  PhD student (Public Health Epidemiology, USM) MSc (Medical Statistics, USM) MBBCh (Al-Azhar University)   Experience:  Successfully run several workshops on bibliometric analysis, systematic reviews, and meta-analysis Published more than fifteen papers in Web of Science- and Scopus-indexed journal   Research interest:  Medical statistics, systematic review, bibliometrics, meta-analysis Machine learning, deep learning, text analysis R and Python application in medical research    </description>
     </item>
     
     <item>
       <title>Webinars</title>
-      <link>http://www.example.com/webinars/</link>
+      <link>https://jomresearch.netlify.app/webinars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/webinars/</guid>
+      <guid>https://jomresearch.netlify.app/webinars/</guid>
       <description>Below are the list of our webinars.
-Future webinars:  Link to heading      Webinar title Date Fee Link to register     How to write a paper for beginners Yet to be decided RM30 Stay tuned   How to do a systematic review Yet to be decided RM70 Stay tuned   How to do a bibliometric analysis Yet to be decided RM70 Stay tuned   How to read a meta-analysis paper Yet to be decided RM50 Stay tuned   An introduction to R Yet to be decided RM40 Stay tuned   How to do a meta-analysis Yet to be decided RM70 Stay tuned   Simple numerical analysis using R Yet to be decided RM100 Stay tuned   Simple categorical analysis using R Yet to be decided RM100 Stay tuned   Machine learning using R Yet to be decided RM100 Stay tuned    Past webinars:  Link to heading   (The recordings and slides are available for purchase)</description>
+Future webinars:  Link to heading      Webinar title Date Fee Link to register     How to write a paper for beginners September 2, 2023 RM30 Stay tuned   An introduction to SPSS and Jamovi Yet to be decided RM10 Stay tuned   How to do a systematic review Yet to be decided RM70 Stay tuned   How to do a bibliometric analysis Yet to be decided RM70 Stay tuned   How to read a meta-analysis paper Yet to be decided RM50 Stay tuned   An introduction to R Yet to be decided RM40 Stay tuned   How to do a meta-analysis Yet to be decided RM70 Stay tuned   Simple numerical analysis using SPSS Yet to be decided RM100 Stay tuned   Simple numerical analysis using Jamovi Yet to be decided RM100 Stay tuned   Simple numerical analysis using R Yet to be decided RM100 Stay tuned   Simple categorical analysis using SPSS Yet to be decided RM100 Stay tuned   Simple categorical analysis using Jamovi Yet to be decided RM100 Stay tuned   Simple categorical analysis using R Yet to be decided RM100 Stay tuned   Machine learning using R Yet to be decided RM100 Stay tuned    Past webinars:  Link to heading   (The recordings and slides are available for purchase)</description>
     </item>
     
   </channel>

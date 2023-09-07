@@ -29,6 +29,6 @@ Below are the list of our webinars.
 
 | Webinar title | Details | Date | Fee | Link to buy the recordings and slides |  
 |---------------|---------|------|-----|---------------------------------------|  
-| How to write a scientific paper for beginners (for health sciences) | [Click for details](/./2023-09-07-how-to-write-a-scientific-paper-for-beginners-for-health-sciences/index.html) | September 2, 2023 | RM30 | [Click to buy](https://forms.gle/WCPpz7pvshg7zdjY9) |
+| How to write a scientific paper for beginners (for health sciences) | [Click for details](/./webinar_detail/2023-09-07-how-to-write-a-scientific-paper-for-beginners-for-health-sciences/index.html) | September 2, 2023 | RM30 | [Click to buy](https://forms.gle/WCPpz7pvshg7zdjY9) |
 | How to read a paper for beginners | [Click for details](/./webinar_detail/2023-09-07-how-to-read-a-paper-for-beginners/index.html) | August 17, 2023 | RM10 | [Click to buy ](https://forms.gle/U94PpQckbVDgWYGW6) |
 | How to publish a paper for beginners and newbies (for health sciences) | [Click for details](/./webinar_detail/2023-09-07-how-to-publish-a-paper-for-beginners-and-newbies-for-health-sciences/index.html) | August 5, 2023 | RM10 | [Click to buy](https://forms.gle/pLpYbRiu9MDRFeEX6) |

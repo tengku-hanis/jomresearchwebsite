@@ -9,8 +9,8 @@ Below are the list of our webinars.
 
 | Webinar title | Date | Fee | Link to register |  
 |---------------|------|-----|------------------|
-| An introduction to SPSS and Jamovi | Yet to be decided | RM10 | Stay tuned |
 | How to do a systematic review | Yet to be decided | RM70 | Stay tuned |
+| An introduction to SPSS and Jamovi | Yet to be decided | RM10 | Stay tuned |
 | How to do a bibliometric analysis | Yet to be decided | RM70 | Stay tuned |
 | How to read a meta-analysis paper | Yet to be decided | RM50 | Stay tuned |
 | An introduction to R | Yet to be decided | RM40 | Stay tuned |

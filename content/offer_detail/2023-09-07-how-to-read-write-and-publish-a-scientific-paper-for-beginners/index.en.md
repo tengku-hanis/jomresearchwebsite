@@ -16,4 +16,4 @@ The recording and slides for this combo offer is available for purchase:
 
 ![](images/poster4.jpg)
 
-[Go to Offers](/./offers/index.html)
+[Go to Offers](https://jomresearch.netlify.app/offers/)

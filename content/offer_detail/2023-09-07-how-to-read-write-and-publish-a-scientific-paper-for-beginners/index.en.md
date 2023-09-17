@@ -7,7 +7,7 @@ categories: []
 tags: []
 ---
 
-**This offer has ended**
+**THIS OFFER HAS ENDED**
 
 The recording and slides for this combo offer is available for purchase:
 

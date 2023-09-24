@@ -7,17 +7,14 @@ categories: []
 tags: []
 ---
 
-Below are the details of the webinar:
+The recording and slides of this webinar is available for purchase:
 
 - Title: How to conduct a systematic review
-- Date: Sept 23, 2023 (Saturday)
-- Time: 9.30 am-4.00 pm
 - Language: English
 - Fee: RM80 (recording, slides, and e-certificate will be provided)
-- Location: Online (Google Meet)
 - Content: Refer to poster below
-- [Click to register](https://forms.gle/NEm6gNSAPRKMQHYM9)
+- [Click to buy](https://forms.gle/uN6aWTCwnBPzktEM7)
 
-![](images/posterSR_cropped.jpg)
+![](images/Recording_SR_webinar40percent.jpg)
 
 [Go to webinars](https://jomresearch.netlify.app/webinars/)

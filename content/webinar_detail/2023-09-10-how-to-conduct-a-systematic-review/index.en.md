@@ -11,7 +11,7 @@ The recording and slides of this webinar is available for purchase:
 
 - Title: How to conduct a systematic review
 - Language: English
-- Price: RM80 (recording, slides, and e-certificate will be provided)
+- Price: RM80 (recording, slides, and e-certificate are included)
 - Content: 
     - What is a systematic review
     - Type of review papers
@@ -30,4 +30,4 @@ The recording and slides of this webinar is available for purchase:
 
 ![](images/poster.png)
 
-[Go to webinars](https://jomresearch.netlify.app/webinars/)
+[Go to past webinars](https://jomresearch.netlify.app/webinars/#past-webinars)

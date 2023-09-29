@@ -9,8 +9,8 @@ Below are the list of our webinars.
 
 | Webinar title | Date | Fee | Link to register |  
 |---------------|------|-----|------------------|
+| [An introduction to SPSS & Jamovi](/./webinar_detail/2023-09-29-an-introduction-to-spss-jamovi/index.html) | Oct 6, 2023 | RM30 | [Click to register](https://forms.gle/S2eJt2sMqW76Fn4t5) |
 | How to do a bibliometric analysis | Yet to be decided | RM80 | Stay tuned |
-| An introduction to SPSS and Jamovi | Yet to be decided | RM30 | Stay tuned |
 | How to read a meta-analysis paper | Yet to be decided | RM50 | Stay tuned |
 | An introduction to R | Yet to be decided | RM40 | Stay tuned |
 | How to do a meta-analysis | Yet to be decided | RM80 | Stay tuned |

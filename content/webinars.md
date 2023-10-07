@@ -9,10 +9,9 @@ Below are the list of our webinars.
 
 | Webinar title | Date | Fee | Link to register |  
 |---------------|------|-----|------------------|
-| [An introduction to SPSS & Jamovi](/./webinar_detail/2023-09-29-an-introduction-to-spss-jamovi/index.html) | Oct 6, 2023 | RM30 | [Click to register](https://forms.gle/S2eJt2sMqW76Fn4t5) |
+| An introduction to R | Yet to be decided | RM40 | Stay tuned |
 | How to do a bibliometric analysis | Yet to be decided | RM80 | Stay tuned |
 | How to read a meta-analysis paper | Yet to be decided | RM50 | Stay tuned |
-| An introduction to R | Yet to be decided | RM40 | Stay tuned |
 | How to do a meta-analysis | Yet to be decided | RM80 | Stay tuned |
 | Simple numerical analysis using SPSS | Yet to be decided | RM100 | Stay tuned |
 | Simple numerical analysis using Jamovi | Yet to be decided | RM100 | Stay tuned |
@@ -28,6 +27,7 @@ Below are the list of our webinars.
 
 | Webinar title | Date | Price | Link to buy the recordings and slides |  
 |---------------|------|-------|---------------------------------------|  
+| [An introduction to SPSS & jamovi](/./webinar_detail/2023-09-29-an-introduction-to-spss-jamovi/index.html) | Oct 6, 2023 | RM30 | [Click to buy](https://forms.gle/Zzj78NkGk2d1Tksc7) |
 | [How to conduct a systematic review](/./webinar_detail/2023-09-10-how-to-conduct-a-systematic-review/index.html) | September 23, 2023 | RM80 | [Click to buy](https://forms.gle/hnrSgtde7pCRpU7fA) |
 | [How to write a scientific paper for beginners (for health sciences)](/./webinar_detail/2023-09-07-how-to-write-a-scientific-paper-for-beginners-for-health-sciences/index.html) | September 2, 2023 | RM30 | [Click to buy](https://forms.gle/WCPpz7pvshg7zdjY9) |
 | [How to read a paper for beginners](/./webinar_detail/2023-09-07-how-to-read-a-paper-for-beginners/index.html) | August 17, 2023 | RM10 | [Click to buy ](https://forms.gle/U94PpQckbVDgWYGW6) |

@@ -7,22 +7,20 @@ categories: []
 tags: []
 ---
 
-The webinar is open for registration. Please find the details below:
+The recording and slides of this webinar is available for purchase:
 
-- Title: An introduction to SPSS & JAMOVI
-- Date: October 6, 2023 (Friday)
-- Time: 08.00 pm - 11.30 pm (MYT)
+- Title: An introduction to SPSS & jamovi
 - Language: English
-- Fee: RM30 (recording and slides will be provided)
+- Price: RM30 (recording, slides, and dummy data used in the webinar will be provided)
 - Content: 
     - Basic functionalities of the software
     - Data exploration
     - Flow of data analysis
     - Descriptive statistics
     - Basic plots
-    - Hands-on using both software
-- [Click to register](https://forms.gle/S2eJt2sMqW76Fn4t5)
+    - Hands-on using both software (practical step-by-step) 
+- [Click to buy](https://forms.gle/Zzj78NkGk2d1Tksc7)
 
-![](images/poster_35percent.png)
+![](images/poster.png)
 
-[Go to webinars](https://jomresearch.netlify.app/webinars/)
+[Go to past webinars](https://jomresearch.netlify.app/webinars/#past-webinars)

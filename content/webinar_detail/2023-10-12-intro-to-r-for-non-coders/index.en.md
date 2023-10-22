@@ -7,14 +7,11 @@ categories: []
 tags: []
 ---
 
-**This webinar is open for registration**
+The material for this webinar is available for purchase:
 
 - Title: Intro to R (for non-coders)
-- Date: Oct 21, 2023 (Saturday)
-- Time: 09.30am - 03.00pm (MYT)
 - Language: English
-- Fee: RM50 (recording, slides, and e-certificates will be provided)
-- Location: Online (Google Meet)
+- Price: RM50 (7 hour recording, slides, dummy data, and R codes/scripts)
 - Content: 
     - Flow of data analysis
     - R, RStudio, and Posit
@@ -25,8 +22,8 @@ tags: []
     - Descriptive statistics
     - Basic plots
     - Hands-on
-- [Click to register](https://forms.gle/eMcwB3FyFmRM5a466)
+- [Click to buy](https://forms.gle/qLeQVD1AwxztdyCi9)
 
-![](images/poster.png)
+![](images/Recording_Intro_to_R_35percent.png)
 
-[Go to webinars](https://jomresearch.netlify.app/webinars/)
+[Go to past webinars](https://jomresearch.netlify.app/webinars/#past-webinars)

@@ -9,7 +9,7 @@ Below are the list of our webinars.
 
 | Webinar title | Date | Fee | Link to register |  
 |---------------|------|-----|------------------|
-| How to do a bibliometric analysis | Yet to be decided | RM80 | Stay tuned |
+| [How write a bibliometric paper](/./webinar_detail/2023-10-26-how-to-write-a-bibliometric-paper/index.html) | Nov 07, 2023 | RM80 | [Click to register](https://forms.gle/GcJf258x4tncWDTw8) |
 | How to read a meta-analysis paper | Yet to be decided | RM50 | Stay tuned |
 | How to do a meta-analysis | Yet to be decided | RM80 | Stay tuned |
 | Simple numerical analysis using SPSS | Yet to be decided | RM100 | Stay tuned |

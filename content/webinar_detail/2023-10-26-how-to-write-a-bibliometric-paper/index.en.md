@@ -7,34 +7,22 @@ categories: []
 tags: []
 ---
 
-**This webinar is open for registration.**
-
-Please find the details below:
+The material for this webinar is available for purchase:
 
 - Title: How to write a bibliometric paper
-- Date: Nov 07, 2023 (Tuesday)
-- Time: 09.30 am-05.00 pm (MYT)
 - Language: English
-- Fee: RM80 (recording, slides, and e-certificates will be provided)
-- Location: Online (Google Meet)
-- Prerequisite: Basic knowledge of R, you can either:
+- Price: RM80 (6-hour recording, slides, dummy data, and R codes/scripts)
+- Prerequisite: Basic knowledge of R. For those new to R, you can either:
     - Buy our 7-hour webinar recording, "Intro to R (for non-coders): [RM50] https://tinyurl.com/recordingintrotor
     - Watch some introductory videos on R on YouTube
 - Content: 
-    - What is a bibliometric analysis
-    - Type of review papers
-    - Step by step of conducting bibliometric analysis:
-        - Developing a plan
-        - Search terms and strategies
-        - Screening strategies
-        - Available software
-    - Hands-on in R and biblioshiny
-    - Writing a bibliometric paper:
-        - Result presentation
-        - Some idea of a bibliometric paper
-        - Choosing a journal
-- [Click to register](https://forms.gle/GcJf258x4tncWDTw8)
+    1. Theory and concept of bibliometric analysis
+    2. Planning and writing a bibliometric paper
+    3. Running the bibliometric analysis
+    4. Hands-on in Web of Science database, R and biblioshiny
+- [Click to buy](https://forms.gle/PNr6uyh7KAHRAGMXA)
 
-![](images/poster.png)
+![](images/biblio_rec_poster_35percent.png)
 
-[Go to webinars](https://jomresearch.netlify.app/webinars/)
+[Go to past webinars](https://jomresearch.netlify.app/webinars/#past-webinars)
+

@@ -9,7 +9,7 @@ Below are the list of our webinars.
 
 | Webinar title | Date | Fee | Link to register |  
 |---------------|------|-----|------------------|
-| How to do a meta-analysis | Yet to be decided | RM80 | Stay tuned |
+| [How to do a meta-analysis](/./webinar_detail/2023-11-09-how-to-do-a-meta-analysis/index.html) | Nov 23, 2023 | RM80 | [Click to register](https://forms.gle/Q3PovN8kP3kgCA4Q9) |
 | Simple numerical analysis using SPSS | Yet to be decided | RM100 | Stay tuned |
 | Simple numerical analysis using Jamovi | Yet to be decided | RM100 | Stay tuned |
 | Simple numerical analysis using R | Yet to be decided | RM100 | Stay tuned |

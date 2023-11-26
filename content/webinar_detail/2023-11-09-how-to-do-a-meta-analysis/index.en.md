@@ -7,16 +7,11 @@ categories: []
 tags: []
 ---
 
-**This webinar is open for registration**
-
-Please find the details of the webinar below:
+The material for this webinar is available for purchase:
 
 - Title: How to do a meta-analysis
-- Date: Nov 23, 2023 (Thursday)
-- Time: 09.30 am-05.00 pm (MYT)
 - Language: English
-- Fee: RM80 (recording, slides, and e-certificates will be provided)
-- Location: Online (Google Meet)
+- Price: RM80 (6-hour recording, slides, dummy data, and R codes/scripts)
 - Prerequisite: Basic knowledge of R and jamovi, you can either:
     - Buy our webinars' recording:
         1. Intro to R (for non-coders): [RM50] https://tinyurl.com/recordingintrotor
@@ -35,8 +30,9 @@ Please find the details of the webinar below:
     10. Data format for meta-analysis
     11. Step-by-step to do a meta-analyis
     12. Hands-on in R and jamovi
-- [Click to register](https://forms.gle/Q3PovN8kP3kgCA4Q9)
+- [Click to buy](https://forms.gle/nMmC7gXnVPw7GeAm7)
 
-![](images/Meta-analysis_webinar_35percent.png)
+![](images/recording_ma_35percent.png)
 
-[Go to webinars](https://jomresearch.netlify.app/webinars/)
+[Go to past webinars](https://jomresearch.netlify.app/webinars/#past-webinars)
+

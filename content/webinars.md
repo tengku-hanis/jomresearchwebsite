@@ -9,7 +9,6 @@ Below are the list of our webinars.
 
 | Webinar title | Date | Fee | Link to register |  
 |---------------|------|-----|------------------|
-| [How to do a meta-analysis](/./webinar_detail/2023-11-09-how-to-do-a-meta-analysis/index.html) | Nov 23, 2023 | RM80 | [Click to register](https://forms.gle/Q3PovN8kP3kgCA4Q9) |
 | Simple numerical analysis using SPSS | Yet to be decided | RM100 | Stay tuned |
 | Simple numerical analysis using Jamovi | Yet to be decided | RM100 | Stay tuned |
 | Simple numerical analysis using R | Yet to be decided | RM100 | Stay tuned |
@@ -24,6 +23,7 @@ Below are the list of our webinars.
 
 | Webinar title | Date | Price | Link to buy the recordings and slides |  
 |---------------|------|-------|---------------------------------------|  
+| [How to do a meta-analysis](/./webinar_detail/2023-11-09-how-to-do-a-meta-analysis/index.html) | Nov 23, 2023 | RM80 | [Click to buy](https://forms.gle/nMmC7gXnVPw7GeAm7) |
 | [How to write a bibliometric paper](/./webinar_detail/2023-10-26-how-to-write-a-bibliometric-paper/index.html) | Nov 07, 2023 | RM80 | [Click to buy](https://forms.gle/PNr6uyh7KAHRAGMXA) |
 | [Intro to R (for non-coders)](/./webinar_detail/2023-10-12-intro-to-r-for-non-coders/index.html) | Oct 21, 2023 | RM50 | [Click to buy](https://forms.gle/qLeQVD1AwxztdyCi9) |
 | [An introduction to SPSS & jamovi](/./webinar_detail/2023-09-29-an-introduction-to-spss-jamovi/index.html) | Oct 6, 2023 | RM30 | [Click to buy](https://forms.gle/Zzj78NkGk2d1Tksc7) |

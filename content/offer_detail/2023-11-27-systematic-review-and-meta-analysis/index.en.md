@@ -1,7 +1,7 @@
 ---
 title: Systematic review and meta-analysis
 author: tengku-hanis
-date: '2023-11-27'
+date: '2023-11-26'
 slug: []
 categories: []
 tags: []
@@ -11,7 +11,7 @@ tags: []
 
 The recording and slides for this combo offer is available for purchase:
 
-- Title: Systematic review nad meta-analysis
+- Title: Systematic review and meta-analysis
 - Price: RM135
 - [Click to buy](https://forms.gle/NHGFpaM7UjDeWXGS9)
 - Content:

@@ -7,7 +7,7 @@ categories: []
 tags: []
 ---
 
-**THIS OFFER IS STILL AVAILABLE**
+**THIS OFFER IS STILL OPEN**
 
 The recording and slides for this combo offer is available for purchase:
 

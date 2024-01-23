@@ -9,7 +9,7 @@ Below are the list of our webinars.
 
 | Webinar title | Date | Fee | Link to register |  
 |---------------|------|-----|------------------|
-| Simple numerical analysis using SPSS | Yet to be decided | RM100 | Stay tuned |
+| [Simple numerical analysis using SPSS & Jamovi](/./webinar_detail/2024-01-23-simple-numerical-analysis-using-spss-jamovi/index.html) | Jan 31, 2024 | RM50 | [Click to register](http://tinyurl.com/numericalspssnjamovi) |
 | Simple numerical analysis using Jamovi | Yet to be decided | RM100 | Stay tuned |
 | Simple numerical analysis using R | Yet to be decided | RM100 | Stay tuned |
 | Simple categorical analysis using SPSS | Yet to be decided | RM100 | Stay tuned |

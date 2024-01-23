@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jomresearch.netlify.app/</loc>
+    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jomresearch.netlify.app/webinar_detail/2024-01-23-simple-numerical-analysis-using-spss-jamovi/</loc>
+    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jomresearch.netlify.app/webinar_detail/</loc>
+    <lastmod>2024-01-23T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://jomresearch.netlify.app/offer_detail/yearendsale1/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jomresearch.netlify.app/offer_detail/yearendsale2/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jomresearch.netlify.app/</loc>
     <lastmod>2023-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jomresearch.netlify.app/offer_detail/</loc>
@@ -18,9 +24,6 @@
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jomresearch.netlify.app/webinar_detail/2023-11-09-how-to-do-a-meta-analysis/</loc>
-    <lastmod>2023-11-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jomresearch.netlify.app/webinar_detail/</loc>
     <lastmod>2023-11-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jomresearch.netlify.app/webinar_detail/2023-10-26-how-to-write-a-bibliometric-paper/</loc>

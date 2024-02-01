@@ -9,12 +9,14 @@ Below are the list of our webinars.
 
 | Webinar title | Date | Fee | Link to register |  
 |---------------|------|-----|------------------|
-| [Simple numerical analysis using SPSS & Jamovi](/./webinar_detail/2024-01-23-simple-numerical-analysis-using-spss-jamovi/index.html) | Jan 31, 2024 | RM50 | [Click to register](http://tinyurl.com/numericalspssnjamovi) |
-| Simple numerical analysis using Jamovi | Yet to be decided | RM100 | Stay tuned |
-| Simple numerical analysis using R | Yet to be decided | RM100 | Stay tuned |
-| Simple categorical analysis using SPSS | Yet to be decided | RM100 | Stay tuned |
-| Simple categorical analysis using Jamovi | Yet to be decided | RM100 | Stay tuned |
-| Simple categorical analysis using R | Yet to be decided | RM100 | Stay tuned |
+| Simple numerical analysis using R | Yet to be decided | RM50 | Stay tuned |
+| Simple categorical analysis using SPSS & jamovi | Yet to be decided | RM50 | Stay tuned |
+| Simple categorical analysis using R | Yet to be decided | RM50 | Stay tuned |
+| Correlation and regression analysis using SPSS & jamovi | Yet to be decided | RM50 | Stay tuned |
+| Correlation and regression analysis using R | Yet to be decided | RM50 | Stay tuned |
+| Advanced analysis using SPSS & jamovi | Yet to be decided | RM80 | Stay tuned |
+| Advanced analysis using R | Yet to be decided | RM80 | Stay tuned |
+| Meta-analysis using SPSS & jamovi | Yet to be decided | RM80 | Stay tuned |
 | Machine learning using R | Yet to be decided | RM100 | Stay tuned |
 
 
@@ -23,6 +25,7 @@ Below are the list of our webinars.
 
 | Webinar title | Date | Price | Link to buy the recordings and slides |  
 |---------------|------|-------|---------------------------------------|  
+| [Simple numerical analysis using SPSS & Jamovi](/./webinar_detail/2024-01-23-simple-numerical-analysis-using-spss-jamovi/index.html) | Jan 31, 2024 | RM50 | [Click to buy](https://forms.gle/hGRaaVaRD424dtPQ7) |
 | [How to do a meta-analysis](/./webinar_detail/2023-11-09-how-to-do-a-meta-analysis/index.html) | Nov 23, 2023 | RM80 | [Click to buy](https://forms.gle/nMmC7gXnVPw7GeAm7) |
 | [How to write a bibliometric paper](/./webinar_detail/2023-10-26-how-to-write-a-bibliometric-paper/index.html) | Nov 07, 2023 | RM80 | [Click to buy](https://forms.gle/PNr6uyh7KAHRAGMXA) |
 | [Intro to R (for non-coders)](/./webinar_detail/2023-10-12-intro-to-r-for-non-coders/index.html) | Oct 21, 2023 | RM50 | [Click to buy](https://forms.gle/qLeQVD1AwxztdyCi9) |

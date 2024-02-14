@@ -6,7 +6,17 @@
     <description>Recent content on jomresearch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jomresearch.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jomresearch.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Simple numerical analysis using R</title>
+      <link>https://jomresearch.netlify.app/webinar_detail/2024-02-14-simple-numerical-analysis-using-r/</link>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://jomresearch.netlify.app/webinar_detail/2024-02-14-simple-numerical-analysis-using-r/</guid>
+      <description>This webinar is open for registration:
+ Title: Simple numerical analysis using R Date: Feb 21, 2024 (Wednesday) Time: 09.30 - 02.00 pm (MYT) Language: English Fee: RM50 (recording, slides, and e-certificates will be provided) Location: Online (Google Meet) Prerequisite: Basic knowledge of R, you can either:  Buy our webinar recording [Intro to R (for non-coders) - RM50: https://tinyurl.com/recordingintrotor] Or watch some introductory videos on R on YouTube   Content:  Independent t-test and Welch&amp;rsquo;s t-test Paired t-test One-way ANOVA and Welch&amp;rsquo;s ANOVA Mann-Whitney test Wilcoxon signed-rank test Kruskal Wallis test Hands-on using R   Click to register  Go to webinars</description>
+    </item>
+    
     <item>
       <title>Simple numerical analysis using SPSS &amp; jamovi</title>
       <link>https://jomresearch.netlify.app/webinar_detail/2024-01-23-simple-numerical-analysis-using-spss-jamovi/</link>
@@ -236,7 +246,7 @@ Email: jom.research.malaysia@gmail.com</description>
       
       <guid>https://jomresearch.netlify.app/webinars/</guid>
       <description>Below are the list of our webinars.
-Future webinars:Link to heading   Webinar title Date Fee Link to register     Simple numerical analysis using R Yet to be decided RM50 Stay tuned   Simple categorical analysis using SPSS &amp;amp; jamovi Yet to be decided RM50 Stay tuned   Simple categorical analysis using R Yet to be decided RM50 Stay tuned   Correlation and regression analysis using SPSS &amp;amp; jamovi Yet to be decided RM50 Stay tuned   Correlation and regression analysis using R Yet to be decided RM50 Stay tuned   Advanced analysis using SPSS &amp;amp; jamovi Yet to be decided RM80 Stay tuned   Advanced analysis using R Yet to be decided RM80 Stay tuned   Meta-analysis using SPSS &amp;amp; jamovi Yet to be decided RM80 Stay tuned   Machine learning using R Yet to be decided RM100 Stay tuned    Past webinars:Link to heading(The recordings and slides are available for purchase)</description>
+Future webinars:Link to heading   Webinar title Date Fee Link to register     Simple numerical analysis using R Feb 21, 2024 RM50 Click to register   Simple categorical analysis using SPSS &amp;amp; jamovi Yet to be decided RM50 Stay tuned   Simple categorical analysis using R Yet to be decided RM50 Stay tuned   Correlation and regression analysis using SPSS &amp;amp; jamovi Yet to be decided RM50 Stay tuned   Correlation and regression analysis using R Yet to be decided RM50 Stay tuned   Advanced analysis using SPSS &amp;amp; jamovi Yet to be decided RM80 Stay tuned   Advanced analysis using R Yet to be decided RM80 Stay tuned   Meta-analysis using SPSS &amp;amp; jamovi Yet to be decided RM80 Stay tuned   Machine learning using R Yet to be decided RM100 Stay tuned    Past webinars:Link to heading(The recordings and slides are available for purchase)</description>
     </item>
     
   </channel>

@@ -10,8 +10,8 @@ Below are the list of our webinars.
 | Webinar title | Date | Fee | Link to register |  
 |---------------|------|-----|------------------|
 | [Simple numerical analysis using R](/./webinar_detail/2024-02-14-simple-numerical-analysis-using-r/index.htm) | Feb 21, 2024 | RM50 | [Click to register](http://tinyurl.com/numericalr) |
-| Simple categorical analysis using SPSS & jamovi | Yet to be decided | RM50 | Stay tuned |
-| Simple categorical analysis using R | Yet to be decided | RM50 | Stay tuned |
+| [Simple categorical analysis using SPSS & jamovi](/./webinar_detail/2024-02-16-simple-categorical-analysis-using-spss-and-jamovi/index.htm) | Feb 26, 2024 | RM50 | [Click to register](http://tinyurl.com/categoricalspssnjamovi) |
+| [Simple categorical analysis using R](/./webinar_detail/2024-02-16-simple-categorical-analysis-using-r/index.htm) | Feb 28, 2024 | RM50 | [Click to register](http://tinyurl.com/categoricalr) |
 | Correlation and regression analysis using SPSS & jamovi | Yet to be decided | RM50 | Stay tuned |
 | Correlation and regression analysis using R | Yet to be decided | RM50 | Stay tuned |
 | Advanced analysis using SPSS & jamovi | Yet to be decided | RM80 | Stay tuned |

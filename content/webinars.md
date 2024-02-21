@@ -9,7 +9,6 @@ Below are the list of our webinars.
 
 | Webinar title | Date | Fee | Link to register |  
 |---------------|------|-----|------------------|
-| [Simple numerical analysis using R](/./webinar_detail/2024-02-14-simple-numerical-analysis-using-r/index.htm) | Feb 21, 2024 | RM50 | [Click to register](http://tinyurl.com/numericalr) |
 | [Simple categorical analysis using SPSS & jamovi](/./webinar_detail/2024-02-16-simple-categorical-analysis-using-spss-and-jamovi/index.htm) | Feb 26, 2024 | RM50 | [Click to register](http://tinyurl.com/categoricalspssnjamovi) |
 | [Simple categorical analysis using R](/./webinar_detail/2024-02-16-simple-categorical-analysis-using-r/index.htm) | Feb 28, 2024 | RM50 | [Click to register](http://tinyurl.com/categoricalr) |
 | Correlation and regression analysis using SPSS & jamovi | Yet to be decided | RM50 | Stay tuned |
@@ -25,6 +24,7 @@ Below are the list of our webinars.
 
 | Webinar title | Date | Price | Link to buy the recordings and slides |  
 |---------------|------|-------|---------------------------------------|  
+| [Simple numerical analysis using R](/./webinar_detail/2024-02-14-simple-numerical-analysis-using-r/index.htm) | Feb 21, 2024 | RM50 | [Click to buy](https://forms.gle/ML5XPzE3dq4KRkCA8) |
 | [Simple numerical analysis using SPSS & Jamovi](/./webinar_detail/2024-01-23-simple-numerical-analysis-using-spss-jamovi/index.html) | Jan 31, 2024 | RM50 | [Click to buy](https://forms.gle/hGRaaVaRD424dtPQ7) |
 | [How to do a meta-analysis](/./webinar_detail/2023-11-09-how-to-do-a-meta-analysis/index.html) | Nov 23, 2023 | RM80 | [Click to buy](https://forms.gle/nMmC7gXnVPw7GeAm7) |
 | [How to write a bibliometric paper](/./webinar_detail/2023-10-26-how-to-write-a-bibliometric-paper/index.html) | Nov 07, 2023 | RM80 | [Click to buy](https://forms.gle/PNr6uyh7KAHRAGMXA) |

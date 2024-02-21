@@ -7,14 +7,11 @@ categories: []
 tags: []
 ---
 
-This webinar is open for registration:
+The material for this webinar is available for purchase:
 
 - Title: Simple numerical analysis using R
-- Date: Feb 21, 2024 (Wednesday)
-- Time: 09.30 - 02.00 pm (MYT)
 - Language: English
-- Fee: RM50 (recording, slides, and e-certificates will be provided)
-- Location: Online (Google Meet)
+- Price: RM50 (recording, slides, and e-certificates will be provided)
 - Prerequisite: Basic knowledge of R, you can either:
     - Buy our webinar recording [Intro to R (for non-coders) -  RM50: https://tinyurl.com/recordingintrotor]
     - Or watch some introductory videos on R on YouTube
@@ -26,8 +23,8 @@ This webinar is open for registration:
     5. Wilcoxon signed-rank test
     6. Kruskal Wallis test
     7. Hands-on using R
-- [Click to register](http://tinyurl.com/numericalr)
+- [Click to buy](https://forms.gle/ML5XPzE3dq4KRkCA8)
 
-![](images/Simple_numerical_analysis_using_R_35percent.png)
+![](images/SNA_R_35percent.png)
 
-[Go to webinars](https://jomresearch.netlify.app/webinars)
+[Go to past webinars](https://jomresearch.netlify.app/webinars/#past-webinars)

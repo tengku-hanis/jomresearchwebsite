@@ -11,8 +11,7 @@ The material for this webinar is available for purchase:
 
 - Title: Simple categorical analysis using SPSS & jamovi
 - Language: English
-- Fee: RM50 (recording, slides, and e-certificates will be provided)
-- Location: Online (Google Meet)
+- Fee: RM50 (recording, slides, and dummy data)
 - Prerequisite: Basic knowledge of SPSS and jamovi, you can either:
     - Buy our webinars' recording - [an introduction to SPSS & jamovi -  RM30](https://tinyurl.com/recordingintrospssjamovi)
     - Or watch some introductory videos on SPSS & jamovi on YouTube

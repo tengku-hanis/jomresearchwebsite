@@ -7,11 +7,9 @@ categories: []
 tags: []
 ---
 
-This webinar is open for registration:
+The material for this webinar is available for purchase:
 
 - Title: Simple categorical analysis using SPSS & jamovi
-- Date: Feb 26, 2024 (Monday)
-- Time: 09.30 - 02.00 pm (MYT)
 - Language: English
 - Fee: RM50 (recording, slides, and e-certificates will be provided)
 - Location: Online (Google Meet)
@@ -19,13 +17,15 @@ This webinar is open for registration:
     - Buy our webinars' recording - [an introduction to SPSS & jamovi -  RM30](https://tinyurl.com/recordingintrospssjamovi)
     - Or watch some introductory videos on SPSS & jamovi on YouTube
 - Content: 
-    1. Chi-square test
-    2. Fisher exact test
-    3. Mc Nemar test
-    4. Cochran Mantel-Haenszel test
-    5. Hands-on using SPSS and jamovi
-- [Click to register](http://tinyurl.com/categoricalspssnjamovi)
+    1. Odds ratio, risk ratio, and confounder
+    2. Pearson's chi-square test
+    3. Fisher's exact test
+    4. McNemar's test
+    5. Cochran's Q test
+    6. Cochran-Mantel-Haenszel test
+    7. Hands-on using SPSS and jamovi
+- [Click to buy](https://forms.gle/Ya1orKnfxJcWk8gm9)
 
-![](images/SCA_SPSS_jamovi_35percent.png)
+![](images/SCA_SPSS_JAMOVI_35percent.png)
 
-[Go to webinars](https://jomresearch.netlify.app/webinars)
+[Go to past webinars](https://jomresearch.netlify.app/webinars/#past-webinars)

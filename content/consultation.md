@@ -3,4 +3,9 @@ slug: consultation
 title: Consultation
 ---
 
-We have yet to provide any consultation services at the moment. Stay tuned and follow us on [Facebook](https://www.facebook.com/profile.php?id=100095502845075) and [Instagram](https://www.instagram.com/jomresearch/) for more info 😊.
+We are available for data analysis and consultations. 
+
+For more details, contact us:
+
+Email: tmh.consultation@gmail.com    
+[Click to WhatsApp us](https://wa.me/message/XZRJGOGFOCA3F1)

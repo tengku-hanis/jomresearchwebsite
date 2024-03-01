@@ -15,7 +15,7 @@ tags: []
 - Language: English
 - Fee: RM70 (recording, slides, dummy data, R codes, and e-certificate)
 - Prerequisite: Basic knowledge of R, for those without the basics, you can either:
-    - Buy our webinar recording [Intro to R (for non-coders) -  RM50: https://tinyurl.com/recordingintrotor]
+    - Buy our webinar recording [Intro to R (for non-coders) -  RM50](https://tinyurl.com/recordingintrotor)
     - Or watch some introductory videos on R on YouTube
 - Content: 
     1. Spearman correlation

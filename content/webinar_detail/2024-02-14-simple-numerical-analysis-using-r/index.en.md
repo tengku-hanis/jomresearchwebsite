@@ -13,7 +13,7 @@ The material for this webinar is available for purchase:
 - Language: English
 - Price: RM50 (recording, slides, and e-certificates will be provided)
 - Prerequisite: Basic knowledge of R, you can either:
-    - Buy our webinar recording [Intro to R (for non-coders) -  RM50: https://tinyurl.com/recordingintrotor]
+    - Buy our webinar recording [Intro to R (for non-coders) -  RM50](https://tinyurl.com/recordingintrotor)
     - Or watch some introductory videos on R on YouTube
 - Content: 
     1. Independent t-test and Welch's t-test

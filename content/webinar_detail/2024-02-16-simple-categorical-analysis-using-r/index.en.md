@@ -11,7 +11,7 @@ The material for this webinar is available for purchase:
 
 - Title: Simple categorical analysis using R
 - Language: English
-- Fee: RM50 (recording, slides, and e-certificates will be provided)
+- Price: RM50 (recording, slides, and e-certificates will be provided)
 - Prerequisite: Basic knowledge of R, you can either:
     - Buy our webinar recording [Intro to R (for non-coders) -  RM50: https://tinyurl.com/recordingintrotor]
     - Or watch some introductory videos on R on YouTube

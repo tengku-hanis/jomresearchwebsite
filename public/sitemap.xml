@@ -2,16 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://jomresearch.netlify.app/webinar_detail/2024-03-01-correlation-and-regression-analysis-using-r/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jomresearch.netlify.app/webinar_detail/2024-03-01-correlation-and-regression-analysis-using-spss-jamovi/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://jomresearch.netlify.app/</loc>
-    <lastmod>2024-02-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jomresearch.netlify.app/webinar_detail/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jomresearch.netlify.app/webinar_detail/2024-02-16-simple-categorical-analysis-using-r/</loc>
     <lastmod>2024-02-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jomresearch.netlify.app/webinar_detail/2024-02-16-simple-categorical-analysis-using-spss-and-jamovi/</loc>
-    <lastmod>2024-02-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jomresearch.netlify.app/webinar_detail/</loc>
     <lastmod>2024-02-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jomresearch.netlify.app/webinar_detail/2024-02-14-simple-numerical-analysis-using-r/</loc>

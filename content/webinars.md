@@ -9,8 +9,8 @@ Below are the list of our webinars.
 
 | Webinar title | Date | Fee | Link to register |  
 |---------------|------|-----|------------------|
-| Correlation and regression analysis using SPSS & jamovi | Yet to be decided | RM70 | Stay tuned |
-| Correlation and regression analysis using R | Yet to be decided | RM70 | Stay tuned |
+| [Correlation and regression analysis using SPSS & jamovi](/./webinar_detail/2024-03-01-correlation-and-regression-analysis-using-spss-jamovi/index.htm) | March 10, 2024 | RM70 | [Click to register](https://tinyurl.com/craspssjamovi) |
+| [Correlation and regression analysis using R](/./webinar_detail/2024-03-01-correlation-and-regression-analysis-using-r/index.htm) | March 11, 2024 | RM70 | [Click to register](https://tinyurl.com/crausingr) |
 | Advanced analysis using SPSS & jamovi [Part 1] | Yet to be decided | RM90 | Stay tuned |
 | Advanced analysis using R [Part 1] | Yet to be decided | RM90 | Stay tuned |
 | Advanced analysis using SPSS & jamovi [Part 2] | Yet to be decided | RM90 | Stay tuned |

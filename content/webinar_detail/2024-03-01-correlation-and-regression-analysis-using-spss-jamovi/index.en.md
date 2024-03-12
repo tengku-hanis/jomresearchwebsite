@@ -6,14 +6,11 @@ slug: []
 categories: []
 tags: []
 ---
-**This webinar is open for registration.**
+The material for this webinar is available for purchase:
 
 - Title: Correlation and regression analysis using SPSS & jamovi
-- Date: March 10, 2024 (Sunday)
-- Time: 09.00 am-03.00 pm (MYT)
-- Location: Google Meet
 - Language: English
-- Fee: RM70 (recording, slides, dummy data, and e-certificate)
+- Price: RM70 (recording, slides, and dummy data)
 - Prerequisite: Basic knowledge of SPSS and jamovi, for those without the basics, you can either:
     - Buy our webinars' recording - [an introduction to SPSS & jamovi -  RM30](https://tinyurl.com/recordingintrospssjamovi)
     - Or watch some introductory videos on SPSS & jamovi on YouTube
@@ -22,10 +19,11 @@ tags: []
     2. Pearson correlation
     3. Simple & multiple linear regression
     4. Simple & multiple logistic regression
-    5. Variable selection
-    6. Hands-on using SPSS and jamovi
-- [Click to register](https://tinyurl.com/craspssjamovi)
+    5. Variable selection process
+    6. Related concepts such as interaction, outliers, and multicollinearity
+    7. Hands-on using SPSS and jamovi
+- [Click to buy](https://forms.gle/QMhHr4TstocwU6m3A)
 
-![](images/CRA_SPSSjamovi_35percent.png)
+![](images/CRA_using_SPSS_jamovi_35percent.png)
 
-[Go to webinars](https://jomresearch.netlify.app/webinars)
+[Go to past webinars](https://jomresearch.netlify.app/webinars/#past-webinars)

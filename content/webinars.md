@@ -9,8 +9,6 @@ Below are the list of our webinars.
 
 | Webinar title | Date | Fee | Link to register |  
 |---------------|------|-----|------------------|
-| [Correlation and regression analysis using SPSS & jamovi](/./webinar_detail/2024-03-01-correlation-and-regression-analysis-using-spss-jamovi/index.htm) | March 10, 2024 | RM70 | [Click to register](https://tinyurl.com/craspssjamovi) |
-| [Correlation and regression analysis using R](/./webinar_detail/2024-03-01-correlation-and-regression-analysis-using-r/index.htm) | March 11, 2024 | RM70 | [Click to register](https://tinyurl.com/crausingr) |
 | Advanced analysis using SPSS & jamovi [Part 1] | Yet to be decided | RM90 | Stay tuned |
 | Advanced analysis using R [Part 1] | Yet to be decided | RM90 | Stay tuned |
 | Advanced analysis using SPSS & jamovi [Part 2] | Yet to be decided | RM90 | Stay tuned |
@@ -24,6 +22,8 @@ Below are the list of our webinars.
 
 | Webinar title | Date | Price | Link to buy the recordings and slides |  
 |---------------|------|-------|---------------------------------------|  
+| [Correlation and regression analysis using R](/./webinar_detail/2024-03-01-correlation-and-regression-analysis-using-r/index.htm) | March 11, 2024 | RM70 | [Click to buy](https://forms.gle/PT8s3jgyTbnWbLhL6) |
+| [Correlation and regression analysis using SPSS & jamovi](/./webinar_detail/2024-03-01-correlation-and-regression-analysis-using-spss-jamovi/index.htm) | March 10, 2024 | RM70 | [Click to buy](https://forms.gle/QMhHr4TstocwU6m3A) |
 | [Simple categorical analysis using R](/./webinar_detail/2024-02-16-simple-categorical-analysis-using-r/index.htm) | Feb 28, 2024 | RM50 | [Click to buy](https://forms.gle/kbSFAX8MtfRPaVC79) |
 | [Simple categorical analysis using SPSS & jamovi](/./webinar_detail/2024-02-16-simple-categorical-analysis-using-spss-and-jamovi/index.htm) | Feb 26, 2024 | RM50 | [Click to buy](https://forms.gle/Ya1orKnfxJcWk8gm9) |
 | [Simple numerical analysis using R](/./webinar_detail/2024-02-14-simple-numerical-analysis-using-r/index.htm) | Feb 21, 2024 | RM50 | [Click to buy](https://forms.gle/ML5XPzE3dq4KRkCA8) |

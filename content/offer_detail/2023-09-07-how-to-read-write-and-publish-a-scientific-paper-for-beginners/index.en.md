@@ -9,8 +9,6 @@ tags: []
 
 **THIS OFFER HAS ENDED**
 
-The recording and slides for this combo offer is available for purchase:
-
 - Title: How to read, write, and publish a scientific paper for beginners
 - Price: RM40
 - Content: Refer to poster below

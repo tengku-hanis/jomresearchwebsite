@@ -7,9 +7,7 @@ categories: []
 tags: []
 ---
 
-**THIS OFFER IS STILL OPEN**
-
-The recording and slides for this combo offer is available for purchase:
+**THIS OFFER HAS ENDED**
 
 - Title: Intro to R and writing a bibliometric paper
 - Price: RM110

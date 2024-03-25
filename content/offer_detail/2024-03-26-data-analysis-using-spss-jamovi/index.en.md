@@ -13,7 +13,7 @@ The recording and slides for this Ramadhan promo is available for purchase:
 
 - Title: Data analysis using SPSS & jamovi
 - Price: RM150 (non-promo price RM180)
-- [Click to buy](https://forms.gle/ejQKsmCrFJzSETSv5)
+- [Click to buy](https://forms.gle/FUT3ebNns2cUZmjS6)
 - Content:
 
 | Title | Duration | Contents | 

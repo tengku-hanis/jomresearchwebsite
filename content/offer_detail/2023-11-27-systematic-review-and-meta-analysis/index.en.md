@@ -11,7 +11,6 @@ tags: []
 
 - Title: Systematic review and meta-analysis
 - Price: RM135
-- [Click to buy](https://forms.gle/NHGFpaM7UjDeWXGS9)
 - Content:
     - **Systematic review (6 1/2 hour recording):**\
           - What is a systematic review   

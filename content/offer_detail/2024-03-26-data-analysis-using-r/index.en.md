@@ -7,13 +7,12 @@ categories: []
 tags: []
 ---
 
-**THIS OFFER IS ONGOING**
+**THIS OFFER HAS ENDED**
 
 The recording and slides for this Ramadhan promo is available for purchase:
 
 - Title: Data analysis using R
 - Price: RM330 (non-promo price RM380)
-- [Click to buy](https://forms.gle/ejQKsmCrFJzSETSv5)
 - Content:
 
 | Title | Duration | Contents | 

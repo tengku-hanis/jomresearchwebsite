@@ -11,7 +11,6 @@ tags: []
 
 - Title: How to read, write, and publish a paper
 - Price: RM35
-- [Click to buy](https://forms.gle/LjaB1x9coT9Peajv9)
 - Content:
     - **Basics of reading a scientific paper:**
         - Why read a paper?

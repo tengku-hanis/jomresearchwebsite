@@ -11,7 +11,6 @@ tags: []
 
 - Title: Intro to R and writing a bibliometric paper
 - Price: RM110
-- [Click to buy](https://forms.gle/9ehxStcfdZUfPtsu8)
 - Content:
     - **Intro to R:**
         - Flow of data analysis

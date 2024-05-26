@@ -10,7 +10,7 @@ The material for this webinar is available for purchase:
 
 - Title: Correlation and regression analysis using R
 - Language: English
-- Fee: RM70 (recording, slides, dummy data, and R codes)
+- Price: RM70 (recording, slides, dummy data, and R codes)
 - Prerequisite: Basic knowledge of R, for those without the basics, you can either:
     - Buy our webinar recording [Intro to R (for non-coders) -  RM50](https://tinyurl.com/recordingintrotor)
     - Or watch some introductory videos on R on YouTube

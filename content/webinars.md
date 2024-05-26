@@ -9,10 +9,10 @@ Below are the list of our webinars.
 
 | Webinar title | Date | Fee | Link to register |  
 |---------------|------|-----|------------------|
-| [Advanced analysis using R - Part 1]((/./webinar_detail/2024-05-26-advanced-analysis-using-r-part-1/index.htm)) | June 08-09, 2024 | RM200 | [Click to register](https://forms.gle/Lzdp9YYY8owEZKYS8) |
+| [Advanced analysis using R - Part 1](/./webinar_detail/2024-05-26-advanced-analysis-using-r-part-1/index.htm) | June 08-09, 2024 | RM200 | [Click to register](https://forms.gle/Lzdp9YYY8owEZKYS8) |
 | Advanced analysis using R - Part 2 | Yet to be decided | RM100 | Stay tuned |
 | Advanced analysis using R - Part 3 | Yet to be decided | RM100 | Stay tuned |
-| Meta-analysis using SPSS & jamovi | Yet to be decided | RM80 | Stay tuned |
+| Meta-analysis using jamovi | Yet to be decided | RM80 | Stay tuned |
 | Machine learning using R | Yet to be decided | RM100 | Stay tuned |
 
 

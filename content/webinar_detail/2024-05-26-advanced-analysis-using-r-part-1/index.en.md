@@ -6,10 +6,10 @@ slug: []
 categories: []
 tags: []
 ---
-**This webinar is open for registration**
+**This webinar is YET TO OPEN for registration**
 
 - Title: Advanced analysis using R - Part 1
-- Date: June 8-9, 2024 (Saturday-Sunday)
+- Date: July 02-03, 2024 (Tuesday-Wednesday)
 - Time: 09.30 am-04.30 pm (MYT)
 - Language: English
 - Fee: RM200 (recording, slides, dummy data, R codes, and e-certificates will be provided)

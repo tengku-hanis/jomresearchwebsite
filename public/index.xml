@@ -6,15 +6,25 @@
     <description>Recent content on jomresearch</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jomresearch.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://jomresearch.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Basics of meta-analysis</title>
+      <link>https://jomresearch.netlify.app/webinar_detail/2024-06-20-basics-of-meta-analysis/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://jomresearch.netlify.app/webinar_detail/2024-06-20-basics-of-meta-analysis/</guid>
+      <description>This webinar is open for registration !!!
+ Title: Basics of meta-analysis Date: June 29, 2024 (Saturday) Time: 09.30am - 04.30pm (MYT) Language: English Fee: RM100 (recording, slides, dummy data, and e-certificates will be provided) Location: Online (Google Meet) Content:  What is a meta-analysis Fixed vs random effect model Heterogeneity Publication bias Forest plot Funnel plot Risk of bias assessment Outlier and influential analysis Intro to jamovi software Hands-on meta-analysis using jamovi   Click to register  Go webinars</description>
+    </item>
+    
     <item>
       <title>Advanced analysis using R - Part 1</title>
       <link>https://jomresearch.netlify.app/webinar_detail/2024-05-26-advanced-analysis-using-r-part-1/</link>
       <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
       
       <guid>https://jomresearch.netlify.app/webinar_detail/2024-05-26-advanced-analysis-using-r-part-1/</guid>
-      <description>This webinar is open for registration
- Title: Advanced analysis using R - Part 1 Date: June 8-9, 2024 (Saturday-Sunday) Time: 09.30 am-04.30 pm (MYT) Language: English Fee: RM200 (recording, slides, dummy data, R codes, and e-certificates will be provided) Location: Online (Google Meet) Prerequisite: Basic knowledge of R, for those without the basics, you can either:  Buy our webinar recording Intro to R (for non-coders) - RM50 Or watch some introductory videos on R on YouTube   Content:  Sum of squares Balanced and unbalanced design ANOVA Multifactorial ANOVA ANCOVA Repeated measure ANOVA MANOVA MANCOVA Hands-on using R   Click to register  Go webinars</description>
+      <description>This webinar is YET TO OPEN for registration
+ Title: Advanced analysis using R - Part 1 Date: July 02-03, 2024 (Tuesday-Wednesday) Time: 09.30 am-04.30 pm (MYT) Language: English Fee: RM200 (recording, slides, dummy data, R codes, and e-certificates will be provided) Location: Online (Google Meet) Prerequisite: Basic knowledge of R, for those without the basics, you can either:  Buy our webinar recording Intro to R (for non-coders) - RM50 Or watch some introductory videos on R on YouTube   Content:  Sum of squares Balanced and unbalanced design ANOVA Multifactorial ANOVA ANCOVA Repeated measure ANOVA MANOVA MANCOVA Hands-on using R   Click to register  Go webinars</description>
     </item>
     
     <item>
@@ -317,7 +327,7 @@ Email: jom.research.malaysia@gmail.com</description>
       
       <guid>https://jomresearch.netlify.app/webinars/</guid>
       <description>Below are the list of our webinars.
-Future webinars:Link to heading   Webinar title Date Fee Link to register     Advanced analysis using R - Part 1 June 08-09, 2024 RM200 Click to register   Advanced analysis using R - Part 2 Yet to be decided RM100 Stay tuned   Advanced analysis using R - Part 3 Yet to be decided RM100 Stay tuned   Meta-analysis using jamovi Yet to be decided RM80 Stay tuned   Machine learning using R Yet to be decided RM100 Stay tuned    Past webinars:Link to heading(The recordings and slides are available for purchase)</description>
+Future webinars:Link to heading   Webinar title Date Fee Link to register     Advanced analysis using R - Part 1 June 02-03, 2024 RM200 Stay tuned   Basics of meta-analysis June 29, 2024 RM100 Click to register   Advanced analysis using R - Part 2 To be decided To be decided Stay tuned   Advanced analysis using R - Part 3 To be decided To be decided Stay tuned   Machine learning using R To be decided To be decided Stay tuned    Past webinars:Link to heading(The recordings and slides are available for purchase)</description>
     </item>
     
   </channel>

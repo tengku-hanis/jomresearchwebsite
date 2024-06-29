@@ -9,8 +9,7 @@ Below are the list of our webinars.
 
 | Webinar title | Date | Fee | Link to register |  
 |---------------|------|-----|------------------|
-| [Advanced analysis using R - Part 1](/./webinar_detail/2024-05-26-advanced-analysis-using-r-part-1/index.htm) | June 02-03, 2024 | RM200 | Stay tuned |
-| [Basics of meta-analysis](/./webinar_detail/2024-06-20-basics-of-meta-analysis/index.htm) | June 29, 2024 | RM100 | [Click to register](https://tinyurl.com/bomawebinar) |
+| Advanced analysis using R - Part 1 | To be decided | RM200 | Stay tuned |
 | Advanced analysis using R - Part 2 | To be decided | To be decided | Stay tuned |
 | Advanced analysis using R - Part 3 | To be decided | To be decided | Stay tuned |
 | Machine learning using R | To be decided | To be decided | Stay tuned |
@@ -21,6 +20,7 @@ Below are the list of our webinars.
 
 | Webinar title | Date | Price | Link to buy the recordings and slides |  
 |---------------|------|-------|---------------------------------------|  
+| [Basics of meta-analysis](/./webinar_detail/2024-06-20-basics-of-meta-analysis/index.htm) | June 29, 2024 | RM100 | [Click to buy](https://forms.gle/Jw26HdzPFNEKRVKj7) |
 | [Correlation and regression analysis using R](/./webinar_detail/2024-03-01-correlation-and-regression-analysis-using-r/index.htm) | March 11, 2024 | RM70 | [Click to buy](https://forms.gle/PT8s3jgyTbnWbLhL6) |
 | [Correlation and regression analysis using SPSS & jamovi](/./webinar_detail/2024-03-01-correlation-and-regression-analysis-using-spss-jamovi/index.htm) | March 10, 2024 | RM70 | [Click to buy](https://forms.gle/QMhHr4TstocwU6m3A) |
 | [Simple categorical analysis using R](/./webinar_detail/2024-02-16-simple-categorical-analysis-using-r/index.htm) | Feb 28, 2024 | RM50 | [Click to buy](https://forms.gle/kbSFAX8MtfRPaVC79) |

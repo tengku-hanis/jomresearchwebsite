@@ -6,14 +6,13 @@ slug: []
 categories: []
 tags: []
 ---
-**This webinar is open for registration !!!**
+The material for this webinar is available for purchase:
 
 - Title: Basics of meta-analysis
-- Date: June 29, 2024 (Saturday)
+
 - Time: 09.30am - 04.30pm (MYT)
 - Language: English
-- Fee: RM100 (recording, slides, dummy data, and e-certificates will be provided)
-- Location: Online (Google Meet)
+- Price: RM100 (recording, slides, dummy data, and e-certificates will be provided)
 - Content: 
     1. What is a meta-analysis
     2. Fixed vs random effect model
@@ -25,8 +24,8 @@ tags: []
     8. Outlier and influential analysis
     9. Intro to jamovi software
     10. Hands-on meta-analysis using jamovi
-- [Click to register](https://tinyurl.com/bomawebinar)
+- [Click to buy](https://forms.gle/Jw26HdzPFNEKRVKj7)
 
-![](images/Basics_of_MA_40percent.png)
+![](images/Basics_of_MA_completed_35percent.png)
 
-[Go webinars](https://jomresearch.netlify.app/webinars/)
+[Go to past webinars](https://jomresearch.netlify.app/webinars/#past-webinars)

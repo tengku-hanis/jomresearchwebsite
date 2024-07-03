@@ -9,9 +9,9 @@ Below are the list of our webinars.
 
 | Webinar title | Date | Fee | Link to register |  
 |---------------|------|-----|------------------|
-| Advanced analysis using R - Part 1 | To be decided | RM200 | Stay tuned |
-| Advanced analysis using R - Part 2 | To be decided | To be decided | Stay tuned |
-| Advanced analysis using R - Part 3 | To be decided | To be decided | Stay tuned |
+| Advanced analysis using R - anova | To be decided | To be decided | Stay tuned |
+| Advanced analysis using R - regression | To be decided | To be decided | Stay tuned |
+| Advanced analysis using R - survival analysis | To be decided | To be decided | Stay tuned |
 | Machine learning using R | To be decided | To be decided | Stay tuned |
 
 

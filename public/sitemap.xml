@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jomresearch.netlify.app/webinar_detail/2024-06-20-basics-of-meta-analysis/</loc>
-    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
+    <loc>https://jomresearch.netlify.app/offer_detail/2024-08-07-1-year-anniversary-sale/</loc>
+    <lastmod>2024-08-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jomresearch.netlify.app/</loc>
+    <lastmod>2024-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jomresearch.netlify.app/offer_detail/</loc>
+    <lastmod>2024-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jomresearch.netlify.app/webinar_detail/2024-06-20-basics-of-meta-analysis/</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jomresearch.netlify.app/webinar_detail/</loc>
@@ -18,9 +24,6 @@
     <lastmod>2024-03-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jomresearch.netlify.app/offer_detail/2024-03-26-data-analysis-using-spss-jamovi/</loc>
-    <lastmod>2024-03-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jomresearch.netlify.app/offer_detail/</loc>
     <lastmod>2024-03-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jomresearch.netlify.app/webinar_detail/2024-03-01-correlation-and-regression-analysis-using-r/</loc>

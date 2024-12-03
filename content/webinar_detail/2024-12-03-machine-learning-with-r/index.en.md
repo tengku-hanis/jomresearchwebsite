@@ -14,9 +14,9 @@ tags: []
 -   Time: 09.30am - 04.30pm (MYT)
 -   Language: English
 -   Location: Online (Google Meet)
--   Price: RM350 (recording, slides, R codes, dummy data, and e-certificates will be provided)
+-   Fee: RM350 (recording, slides, R codes, dummy data, and e-certificates will be provided)
 -   Content:
-    1.  Introduction to R
+    1.  Introduction to R and RStudio
     2.  Basic concepts and terms in machine learning
     3.  Regression algorithms
     4.  Classification algorithms

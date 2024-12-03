@@ -2,19 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jomresearch.netlify.app/offer_detail/2024-08-07-1-year-anniversary-sale/</loc>
-    <lastmod>2024-08-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://jomresearch.netlify.app/</loc>
+    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jomresearch.netlify.app/webinar_detail/2024-12-03-machine-learning-with-r/</loc>
+    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jomresearch.netlify.app/webinar_detail/</loc>
+    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jomresearch.netlify.app/offer_detail/2024-08-07-1-year-anniversary-sale/</loc>
     <lastmod>2024-08-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jomresearch.netlify.app/offer_detail/</loc>
     <lastmod>2024-08-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jomresearch.netlify.app/webinar_detail/2024-06-20-basics-of-meta-analysis/</loc>
-    <lastmod>2024-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jomresearch.netlify.app/webinar_detail/</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jomresearch.netlify.app/webinar_detail/2024-05-26-advanced-analysis-using-r-part-1/</loc>

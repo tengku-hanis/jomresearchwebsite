@@ -9,10 +9,11 @@ Below are the list of our webinars.
 
 | Webinar title | Date | Fee | Link to register |  
 |---------------|------|-----|------------------|
+| [Machine learning with R](/./webinar_detail/2024-12-03-machine-learning-with-r/index.htm) | Dec 14-16, 2024 | RM350 | [Click to register](https://forms.gle/6qLnGBqadhJyUs6N8)
 | Advanced analysis using R - anova | To be decided | To be decided | Stay tuned |
 | Advanced analysis using R - regression | To be decided | To be decided | Stay tuned |
 | Advanced analysis using R - survival analysis | To be decided | To be decided | Stay tuned |
-| Machine learning using R | To be decided | To be decided | Stay tuned |
+
 
 
 ## **Past webinars**: 

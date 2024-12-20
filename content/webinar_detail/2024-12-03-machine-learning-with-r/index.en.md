@@ -7,14 +7,11 @@ categories: []
 tags: []
 ---
 
-**This webinar is OPEN FOR REGISTRATION!**
+The material for this webinar is available for purchase:
 
 -   Title: Machine learning with R
--   Date: Dec 14-16, 2024 (Saturday-Monday)
--   Time: 09.30am - 04.30pm (MYT)
 -   Language: English
--   Location: Online (Google Meet)
--   Fee: RM350 (recording, slides, R codes, dummy data, and e-certificates will be provided)
+-   Price: RM350 (3-days recording, slides, R codes, and dummy data will be provided)
 -   Content:
     1.  Introduction to R and RStudio
     2.  Basic concepts and terms in machine learning
@@ -25,8 +22,8 @@ tags: []
     7.  Explainable machine learning
     8.  Introduction to deep learning
     9.  Hands-on session in R
--   [Click to register](https://forms.gle/6qLnGBqadhJyUs6N8)
+-   [Click to buy](https://forms.gle/RB8nBQiuTHGHrKjc6)
 
-![](images/468666653_507652979094793_6855056154172815360_n.jpg)
+![](images/MLwR_4purchase.png)
 
-[Go to webinars](https://jomresearch.netlify.app/webinars/)
+[Go to past webinars](https://jomresearch.netlify.app/webinars/#past-webinars)
